@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Mick Herron",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": 14,
+      "rating": 3,
+      "featured": false,
+      "id": 1
+    },
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Laura Dave",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": 13.99,
+      "rating": "1",
+      "featured": true,
+      "id": 2
+    },
+    {
+      "name": "Eloquent JavaScript, 3rd Edition",
+      "author": "Marijn Haverbeke",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": 23.99,
+      "rating": "3",
+      "featured": false,
+      "id": 4
+    },
+    {
+      "featured": true,
+      "name": "The History of Quran",
+      "author": "Sujon Ali",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": "555",
+      "rating": "5",
+      "id": 5
+    },
+    {
+      "featured": false,
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Pagla Baba",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": "444",
+      "rating": "4",
+      "id": 6
+    },
+    {
+      "featured": true,
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Sumit Saha",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": "11111",
+      "rating": "4",
+      "id": 7
+    }
+  ]
+}
